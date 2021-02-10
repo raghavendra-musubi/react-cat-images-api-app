@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.pussy-column {
+  display: flex;
+  flex-direction: column;
+}
+button {
+  height: 5vh;
+}
